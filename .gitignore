@@ -1,0 +1,7 @@
+*.deb
+*.flatpak
+*.tar.zst
+*.zip
+.flatpak-builder/
+repo/
+com.xtool.Studio.yml
