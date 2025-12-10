@@ -25,6 +25,14 @@ make BRANCH=1.2.11
 
 > **Note:** The `BRANCH` parameter must match the version number in your `.deb` filename.
 
+The resulting flatpak can be found in `releases/`.
+
+To install, issue:
+
+```bash
+flatpak install ./releases/xtool-studio-1.2.11.flatpak
+```
+
 ## Example
 ```bash
 # For xTool-Studio-x64-1.2.11.deb
