@@ -5,3 +5,4 @@
 .flatpak-builder/
 repo/
 com.xtool.Studio.yml
+releases/*.flatpak
